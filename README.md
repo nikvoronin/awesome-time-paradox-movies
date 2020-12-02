@@ -33,11 +33,21 @@ A soldier wakes up in someone else's body and discovers he's part of an experime
 [Deja Vu](https://www.imdb.com/title/tt0453467/) (2006)
 After a ferry is bombed in New Orleans, an A.T.F. agent joins a unique investigation using experimental surveillance technology to find the bomber, but soon finds himself becoming obsessed with one of the victims.
 
-Next (Пророк), 2007
-Predestination (Патруль времени), 2013
-Lola rennt, (1998) 81 мин.
-Steins;Gate, (2011) 25 мин.
-Twelve Monkeys, (1995) 129 мин.
+[Next](https://www.imdb.com/title/tt0435705/) (2007)
+A Las Vegas magician who can see into the future is pursued by FBI agents seeking to use his abilities to prevent a nuclear terrorist attack.
+
+[Predestination](https://www.imdb.com/title/tt2397535/) (2013)
+For his final assignment, a top temporal agent must pursue the one criminal that has eluded him throughout time. The chase turns into a unique, surprising and mind-bending exploration of love, fate, identity and time travel taboos.
+
+[Lola rennt](https://www.imdb.com/title/tt0130827/) (1998)
+After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.
+
+[Steins;Gate](https://www.imdb.com/title/tt1910272/) (2011-2015)
+After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.
+
+[Twelve Monkeys](https://www.imdb.com/title/tt0114746/) (1995)
+In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+
 ARQ, 2016
 The Time Traveler's Wife (Жена путешественника во времени), 2008
 The Lake House, (2006) 99 мин.
