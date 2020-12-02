@@ -94,6 +94,9 @@ A family saga with a supernatural twist, set in a German town, where the disappe
 [El ministerio del tiempo](https://www.imdb.com/title/tt4136774/) / _The Ministry of Time_ (2015-...)
 A warrior from the 16th Century, the first female university student from the 19th Century, and a paramedic from the 21st Century join a secret agency to prevent people from changing Spanish history using time-traveling doors.
 
+[12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)
+Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.
+
 ## Cartoons
 
 [Steins;Gate](https://www.imdb.com/title/tt1910272/) (2011-2015)
