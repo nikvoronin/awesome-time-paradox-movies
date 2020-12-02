@@ -97,7 +97,7 @@ A warrior from the 16th Century, the first female university student from the 19
 [12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)
 Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.
 
-## Cartoons
+## Animation
 
 [Steins;Gate](https://www.imdb.com/title/tt1910272/) (2011-2015)
 After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.
