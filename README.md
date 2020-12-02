@@ -21,10 +21,18 @@ Three friends discover a mysterious machine that takes pictures twenty-four hour
 [Looper](https://www.imdb.com/title/tt1276104/) (2012)
 In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.
 
-Coherence (Связь), 2012
-The Butterfly Effect (Эффект бабочки), 2003
-Source Code (Исходный код), 2011
-Deja Vu (Дежавю), 2006
+[Coherence](https://www.imdb.com/title/tt2866360/) (2013)
+Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
+
+[The Butterfly Effect](https://www.imdb.com/title/tt0289879/) (2004)
+Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.
+
+[Source Code](https://www.imdb.com/title/tt0945513/) (2011)
+A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train within 8 minutes.
+
+[Deja Vu](https://www.imdb.com/title/tt0453467/) (2006)
+After a ferry is bombed in New Orleans, an A.T.F. agent joins a unique investigation using experimental surveillance technology to find the bomber, but soon finds himself becoming obsessed with one of the victims.
+
 Next (Пророк), 2007
 Predestination (Патруль времени), 2013
 Lola rennt, (1998) 81 мин.
