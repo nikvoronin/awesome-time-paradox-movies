@@ -72,13 +72,29 @@ A shipping magnate hires four experts from various fields to investigate what ha
 [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/) (2014)
 A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.
 
-Toki o kakeru shôjo (Девочка, покорившая время), 2006
-Dark (2017) 60 мин.
-Les maîtres du temps (1982) 75 мин.
-El ministerio del tiempo (2015) 70 мин.
-Triangle (Треугольник), 2009
-Retroactive (Провал во времени), 1997
-Slipstream (Капкан времени), 2005
-Back to the Future (Назад в будущее), 1985
-The Terminator (Терминатор), 1984
-Midnight in Paris (Полночь в Париже), 2011
+[Toki o kakeru shôjo](https://www.imdb.com/title/tt0808506/) / _The Girl Who Leapt Through Time_ (2006)
+A high-school girl named Makoto acquires the power to travel back in time, and decides to use it for her own personal benefits. Little does she know that she is affecting the lives of others just as much as she is her own.
+
+[Dark](https://www.imdb.com/title/tt5753856/) (2017-2020)
+A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.
+
+[Les maîtres du temps](https://www.imdb.com/title/tt0084315/) / _Time Masters_ (1982)
+Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivor of an attack by giant hornets. Calling for help, Piel's father's friend Jaffar keeps contact with the kid and hurries across space toward Perdide.
+
+[El ministerio del tiempo](https://www.imdb.com/title/tt4136774/) / _The Ministry of Time_ (2015-...)
+A warrior from the 16th Century, the first female university student from the 19th Century, and a paramedic from the 21st Century join a secret agency to prevent people from changing Spanish history using time-traveling doors.
+
+[Triangle](https://www.imdb.com/title/tt1187064/) (2009)
+A group of friends suffer a yachting accident and take refuge on a cruiser drifting on the open sea, but quickly realize they were better off on the upturned yacht.
+
+[Retroactive](https://www.imdb.com/title/tt0117468/) (1997)
+A psychiatrist makes multiple trips through time to save a woman that was murdered by her brutal husband.
+
+[Back to the Future](https://www.imdb.com/title/tt0088763/)(1985); [Part II](https://www.imdb.com/title/tt0096874/) (1989); [Part III](https://www.imdb.com/title/tt0099088/) (1990)
+Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.
+
+[The Terminator](https://www.imdb.com/title/tt0088247/) (1984); [Judgment Day](https://www.imdb.com/title/tt0103064/) (1991); [Rise of the Machines](https://www.imdb.com/title/tt0181852/) (2003)
+A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
+
+[Slipstream](https://www.imdb.com/title/tt0381601) (2005)
+A scientist goes to a bank to meet a pretty bank-teller. His time-machine allows him to go 10 minutes back in time and correct his approaches to her. He's shadowed by 2 FBI agents and the bank gets robbed.
