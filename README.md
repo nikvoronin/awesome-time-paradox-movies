@@ -1,10 +1,6 @@
 # Awesome Time Paradox Movies
 
-[Devs](https://www.imdb.com/title/tt8134186/) (2020)
-A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend.
-
-[Tales from the Loop](https://www.imdb.com/title/tt8741290/) (2020)
-The townspeople who live above "The Loop," a machine built to unlock and explore the mysteries of the universe, experience things previously consigned to the realm of science fiction.
+## Movies
 
 [Frequency](https://www.imdb.com/title/tt0186151/) (2020)
 An accidental cross-time radio link connects father and son across 30 years. The son tries to save his father's life, but then must fix the consequences.
@@ -42,9 +38,6 @@ For his final assignment, a top temporal agent must pursue the one criminal that
 [Lola rennt](https://www.imdb.com/title/tt0130827/) / _Lola Runs_ / _Run Lola Run_ (1998)
 After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.
 
-[Steins;Gate](https://www.imdb.com/title/tt1910272/) (2011-2015)
-After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.
-
 [Twelve Monkeys](https://www.imdb.com/title/tt0114746/) (1995)
 In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
@@ -66,23 +59,8 @@ An amnesiac discovers himself leaping through time between 2000 and 2002 as his 
 [Project Almanac](https://www.imdb.com/title/tt2436386/) (2015)
 A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control.
 
-[The Triangle](https://www.imdb.com/title/tt0452573/) (2005)
-A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.
-
 [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/) (2014)
 A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.
-
-[Toki o kakeru shôjo](https://www.imdb.com/title/tt0808506/) / _The Girl Who Leapt Through Time_ (2006)
-A high-school girl named Makoto acquires the power to travel back in time, and decides to use it for her own personal benefits. Little does she know that she is affecting the lives of others just as much as she is her own.
-
-[Dark](https://www.imdb.com/title/tt5753856/) (2017-2020)
-A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.
-
-[Les maîtres du temps](https://www.imdb.com/title/tt0084315/) / _Time Masters_ (1982)
-Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivor of an attack by giant hornets. Calling for help, Piel's father's friend Jaffar keeps contact with the kid and hurries across space toward Perdide.
-
-[El ministerio del tiempo](https://www.imdb.com/title/tt4136774/) / _The Ministry of Time_ (2015-...)
-A warrior from the 16th Century, the first female university student from the 19th Century, and a paramedic from the 21st Century join a secret agency to prevent people from changing Spanish history using time-traveling doors.
 
 [Triangle](https://www.imdb.com/title/tt1187064/) (2009)
 A group of friends suffer a yachting accident and take refuge on a cruiser drifting on the open sea, but quickly realize they were better off on the upturned yacht.
@@ -98,3 +76,31 @@ A human soldier is sent from 2029 to 1984 to stop an almost indestructible cybor
 
 [Slipstream](https://www.imdb.com/title/tt0381601) (2005)
 A scientist goes to a bank to meet a pretty bank-teller. His time-machine allows him to go 10 minutes back in time and correct his approaches to her. He's shadowed by 2 FBI agents and the bank gets robbed.
+
+## TV-Series
+
+[Devs](https://www.imdb.com/title/tt8134186/) (2020)
+A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend.
+
+[Tales from the Loop](https://www.imdb.com/title/tt8741290/) (2020)
+The townspeople who live above "The Loop," a machine built to unlock and explore the mysteries of the universe, experience things previously consigned to the realm of science fiction.
+
+[The Triangle](https://www.imdb.com/title/tt0452573/) (2005)
+A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.
+
+[Dark](https://www.imdb.com/title/tt5753856/) (2017-2020)
+A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.
+
+[El ministerio del tiempo](https://www.imdb.com/title/tt4136774/) / _The Ministry of Time_ (2015-...)
+A warrior from the 16th Century, the first female university student from the 19th Century, and a paramedic from the 21st Century join a secret agency to prevent people from changing Spanish history using time-traveling doors.
+
+## Cartoons
+
+[Steins;Gate](https://www.imdb.com/title/tt1910272/) (2011-2015)
+After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.
+
+[Toki o kakeru shôjo](https://www.imdb.com/title/tt0808506/) / _The Girl Who Leapt Through Time_ (2006)
+A high-school girl named Makoto acquires the power to travel back in time, and decides to use it for her own personal benefits. Little does she know that she is affecting the lives of others just as much as she is her own.
+
+[Les maîtres du temps](https://www.imdb.com/title/tt0084315/) / _Time Masters_ (1982)
+Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivor of an attack by giant hornets. Calling for help, Piel's father's friend Jaffar keeps contact with the kid and hurries across space toward Perdide.
