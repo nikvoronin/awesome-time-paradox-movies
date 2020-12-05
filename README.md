@@ -5,6 +5,7 @@
   - [TV-Series](#tv-series)
   - [Animation](#animation)
   - [Basement](#basement)
+    - [Rules](#rules)
     - [TODO](#todo)
     - [Some Sort Of](#some-sort-of)
       - [Films](#films)
@@ -125,6 +126,11 @@ A high-school girl named Makoto acquires the power to travel back in time, and d
 Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivor of an attack by giant hornets. Calling for help, Piel's father's friend Jaffar keeps contact with the kid and hurries across space toward Perdide.
 
 ## Basement
+
+### Rules
+
+- Not only a time travel
+- Must contains time paradox or time twist
 
 ### TODO
 
