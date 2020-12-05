@@ -1,16 +1,5 @@
 # Awesome Time Paradox Movies
 
-- [Awesome Time Paradox Movies](#awesome-time-paradox-movies)
-  - [Movies](#movies)
-  - [TV-Series](#tv-series)
-  - [Animation](#animation)
-  - [Basement](#basement)
-    - [Rules](#rules)
-    - [TODO](#todo)
-    - [Some Sort Of](#some-sort-of)
-      - [Films](#films)
-      - [TV-Shows](#tv-shows)
-
 ## Movies
 
 [Frequency](https://www.imdb.com/title/tt0186151/) (2020)
@@ -91,6 +80,9 @@ A linguist works with the military to communicate with alien lifeforms after twe
 [Men in Black 3](https://www.imdb.com/title/tt1409024/) (2012)
 Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.
 
+[Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) (2004)
+Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.
+
 ## TV-Series
 
 [Devs](https://www.imdb.com/title/tt8134186/) (2020)
@@ -111,6 +103,9 @@ A warrior from the 16th Century, the first female university student from the 19
 [12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)
 Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.
 
+[Star Trek](https://www.imdb.com/title/tt0796366/) (2009)
+The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
+
 [The Langoliers](https://www.imdb.com/title/tt0112040/) (1995)
 Most of the passengers on an airplane disappear, and the remainder land the plane in a mysteriously barren airport.
 
@@ -125,14 +120,10 @@ A high-school girl named Makoto acquires the power to travel back in time, and d
 [Les maîtres du temps](https://www.imdb.com/title/tt0084315/) / _Time Masters_ (1982)
 Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivor of an attack by giant hornets. Calling for help, Piel's father's friend Jaffar keeps contact with the kid and hurries across space toward Perdide.
 
-## Basement
-
-### Rules
+## TODO
 
 - Not only a time travel
 - Must contains time paradox or time twist
-
-### TODO
 
 [Durante la tormenta](https://www.imdb.com/title/tt6908274/) / _Mirage_ (2018)
 Two storms separated by 25 years. A woman murdered. A daughter missed. Only 72 hours to discover the truth.
@@ -149,9 +140,7 @@ In the not-so distant future, researchers at a deep-sea labaratory have finally 
 [Paradox](https://www.imdb.com/title/tt4540434/) (2016)
 A time machine's tested first time by a man in the team traveling 1 hour into the future. He returns to warn them against killings in the next hour. Is it possible to change things in the "past"? Twist after twist follow.
 
-### Some Sort Of
-
-#### Films
+## Excluded
 
 [Groundhog Day](https://www.imdb.com/title/tt0107048/) (1993)
 A weatherman finds himself inexplicably living the same day over and over again.
@@ -159,16 +148,11 @@ A weatherman finds himself inexplicably living the same day over and over again.
 [Happy Death Day](https://www.imdb.com/title/tt5308322/) (2017); [2U](https://www.imdb.com/title/tt8155288/) (2019)
 A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.
 
-[Star Trek](https://www.imdb.com/title/tt0796366/) (2009)
-The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
-
 [Enter Nowhere](https://www.imdb.com/title/tt1631707/) (2011)
 Three strangers arrive one by one at a mysterious cabin in the middle of nowhere only to learn they've been brought together for a reason.
 
 [Lola rennt](https://www.imdb.com/title/tt0130827/) / _Lola Runs_ / _Run Lola Run_ (1998)
 After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.
-
-#### TV-Shows
 
 [Alcatraz](https://www.imdb.com/title/tt1728102/) (2012)
 In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.
