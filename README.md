@@ -85,6 +85,9 @@ A human soldier is sent from 2029 to 1984 to stop an almost indestructible cybor
 [Slipstream](https://www.imdb.com/title/tt0381601) (2005)
 A scientist goes to a bank to meet a pretty bank-teller. His time-machine allows him to go 10 minutes back in time and correct his approaches to her. He's shadowed by 2 FBI agents and the bank gets robbed.
 
+[Arrival](https://www.imdb.com/title/tt2543164/) (2016)
+A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world.
+
 ## TV-Series
 
 [Devs](https://www.imdb.com/title/tt8134186/) (2020)
@@ -105,6 +108,9 @@ A warrior from the 16th Century, the first female university student from the 19
 [12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)
 Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.
 
+[The Langoliers](https://www.imdb.com/title/tt0112040/) (1995)
+Most of the passengers on an airplane disappear, and the remainder land the plane in a mysteriously barren airport.
+
 ## Animation
 
 [Steins;Gate](https://www.imdb.com/title/tt1910272/) (2011-2015)
@@ -115,9 +121,6 @@ A high-school girl named Makoto acquires the power to travel back in time, and d
 
 [Les maîtres du temps](https://www.imdb.com/title/tt0084315/) / _Time Masters_ (1982)
 Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivor of an attack by giant hornets. Calling for help, Piel's father's friend Jaffar keeps contact with the kid and hurries across space toward Perdide.
-
-[Arrival](https://www.imdb.com/title/tt2543164/) (2016)
-A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world.
 
 ## Basement
 
