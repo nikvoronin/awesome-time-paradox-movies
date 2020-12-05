@@ -135,6 +135,12 @@ Today Detective Brett Hopper will be accused of shooting state attorney Alberto 
 [Tenet](https://www.imdb.com/title/tt6723592/) (2020)
 Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
+[Yeolhansi](https://www.imdb.com/title/tt3281394/) / _11 A.M._ (2013)
+In the not-so distant future, researchers at a deep-sea labaratory have finally succeded in inventing a time machine. Heavily burdened by financial stress, head researcher Woo-seok is promised more funding from a mega-corporation, if he successfully completes a test flight. Ji-wan tries to stop his colleague and lover, Young-eun from going on the dangerous flight, but Woo-seok and Young-eun carry out the mission and travel to 11 A.M - the next day. They arrive at the planned time only to find the base on the verge of collapse. What could have happened in the 24 hours?
+
+[Paradox](https://www.imdb.com/title/tt4540434/) (2016)
+A time machine's tested first time by a man in the team traveling 1 hour into the future. He returns to warn them against killings in the next hour. Is it possible to change things in the "past"? Twist after twist follow.
+
 ### Some Sort Of
 
 [Groundhog Day](https://www.imdb.com/title/tt0107048/) (1993)
@@ -145,3 +151,6 @@ A college student must relive the day of her murder over and over again, in a lo
 
 [Star Trek](https://www.imdb.com/title/tt0796366/) (2009)
 The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
+
+[Enter Nowhere](https://www.imdb.com/title/tt1631707/) (2011)
+Three strangers arrive one by one at a mysterious cabin in the middle of nowhere only to learn they've been brought together for a reason.
