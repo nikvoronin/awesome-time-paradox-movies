@@ -126,6 +126,9 @@ Two storms separated by 25 years. A woman murdered. A daughter missed. Only 72 h
 [Day Break](https://www.imdb.com/title/tt0801425/) (2006-2007)
 Today Detective Brett Hopper will be accused of shooting state attorney Alberto Garza. He will offer his rock solid alibi. He will realize he's been framed. And he will run. Then he will wake up and start the day over again.
 
+[Tenet](https://www.imdb.com/title/tt6723592/) (2020)
+Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
+
 ### Some Sort Of
 
 [Groundhog Day](https://www.imdb.com/title/tt0107048/) (1993)
@@ -133,3 +136,6 @@ A weatherman finds himself inexplicably living the same day over and over again.
 
 [Happy Death Day](https://www.imdb.com/title/tt5308322/) (2017); [2U](https://www.imdb.com/title/tt8155288/) (2019)
 A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.
+
+[Star Trek](https://www.imdb.com/title/tt0796366/) (2009)
+The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
