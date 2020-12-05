@@ -159,3 +159,6 @@ After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deut
 
 [Alcatraz](https://www.imdb.com/title/tt1728102/) (2012)
 In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.
+
+[H0us3](https://www.imdb.com/title/tt9055630/) (2018)
+A group of friends for meeting, a secret for disclosing, a nightmare for starting.
