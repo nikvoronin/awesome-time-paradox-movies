@@ -145,6 +145,9 @@ A time machine's tested first time by a man in the team traveling 1 hour into th
 [Groundhog Day](https://www.imdb.com/title/tt0107048/) (1993)
 A weatherman finds himself inexplicably living the same day over and over again.
 
+[Midnight in Paris](https://www.imdb.com/title/tt1605783/) (2011)
+While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.
+
 [Happy Death Day](https://www.imdb.com/title/tt5308322/) (2017); [2U](https://www.imdb.com/title/tt8155288/) (2019)
 A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.
 
