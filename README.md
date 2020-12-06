@@ -41,6 +41,9 @@ A Chicago librarian has a gene that causes him to involuntarily time travel, cre
 [Triangle](https://www.imdb.com/title/tt1187064/) (2009)
 A group of friends suffer a yachting accident and take refuge on a cruiser drifting on the open sea, but quickly realize they were better off on the upturned yacht.
 
+[Star Trek](https://www.imdb.com/title/tt0796366/) (2009)
+The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
+
 [Los cronocrímenes](https://www.imdb.com/title/tt0480669/) / _Timecrimes_ (2007)
 A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.
 
@@ -104,9 +107,6 @@ A family saga with a supernatural twist, set in a German town, where the disappe
 
 [12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)
 Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.
-
-[Star Trek](https://www.imdb.com/title/tt0796366/) (2009)
-The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
 
 [The Triangle](https://www.imdb.com/title/tt0452573/) (2005)
 A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.
