@@ -128,7 +128,7 @@ Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivo
 ## TODO
 
 - Not only a time travel
-- Must contains time paradox or time twist
+- Must contain time paradox or violation of causality
 
 [Durante la tormenta](https://www.imdb.com/title/tt6908274/) / _Mirage_ (2018)
 Two storms separated by 25 years. A woman murdered. A daughter missed. Only 72 hours to discover the truth.
