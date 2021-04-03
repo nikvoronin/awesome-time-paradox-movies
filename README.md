@@ -131,7 +131,7 @@ Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivo
 ## TODO
 
 - Not only a time travel
-- Must contain time paradox or violation of causality
+- Should contain a time paradox or violation of causality
 
 [Paradox](https://www.imdb.com/title/tt4540434/) (2016)
 A time machine's tested first time by a man in the team traveling 1 hour into the future. He returns to warn them against killings in the next hour. Is it possible to change things in the "past"? Twist after twist follow.
