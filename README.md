@@ -5,6 +5,9 @@
 **[Tenet](https://www.imdb.com/title/tt6723592/)** (2020)
 Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
+[Synchronic](https://www.imdb.com/title/tt9016974/) (2019)
+Two New Orleans paramedics' lives are ripped apart after they encounter a series of horrific deaths linked to a designer drug with bizarre, otherworldly effects.
+
 [Durante la tormenta](https://www.imdb.com/title/tt6908274/) / _Mirage_ (2018)
 Two storms separated by 25 years. A woman murdered. A daughter missed. Only 72 hours to discover the truth.
 
@@ -140,6 +143,9 @@ In the not-so distant future, researchers at a deep-sea labaratory have finally 
 Today Detective Brett Hopper will be accused of shooting state attorney Alberto Garza. He will offer his rock solid alibi. He will realize he's been framed. And he will run. Then he will wake up and start the day over again.
 
 ## Excluded
+
+[Boss Level](https://www.imdb.com/title/tt7638348/) (2021)
+A retired Special Forces officer is trapped in a never-ending time loop on the day of his death.
 
 [Happy Death Day](https://www.imdb.com/title/tt5308322/) (2017); [2U](https://www.imdb.com/title/tt8155288/) (2019)
 A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.
