@@ -111,6 +111,9 @@ A family saga with a supernatural twist, set in a German town, where the disappe
 [12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)
 Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.
 
+[Day Break](https://www.imdb.com/title/tt0801425/) (2006-2007)
+Today Detective Brett Hopper will be accused of shooting state attorney Alberto Garza. He will offer his rock solid alibi. He will realize he's been framed. And he will run. Then he will wake up and start the day over again.
+
 [The Triangle](https://www.imdb.com/title/tt0452573/) (2005)
 A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.
 
@@ -138,9 +141,6 @@ A time machine's tested first time by a man in the team traveling 1 hour into th
 
 [Yeolhansi](https://www.imdb.com/title/tt3281394/) / _11 A.M._ (2013)
 In the not-so distant future, researchers at a deep-sea labaratory have finally succeded in inventing a time machine. Heavily burdened by financial stress, head researcher Woo-seok is promised more funding from a mega-corporation, if he successfully completes a test flight. Ji-wan tries to stop his colleague and lover, Young-eun from going on the dangerous flight, but Woo-seok and Young-eun carry out the mission and travel to 11 A.M - the next day. They arrive at the planned time only to find the base on the verge of collapse. What could have happened in the 24 hours?
-
-[Day Break](https://www.imdb.com/title/tt0801425/) (2006-2007)
-Today Detective Brett Hopper will be accused of shooting state attorney Alberto Garza. He will offer his rock solid alibi. He will realize he's been framed. And he will run. Then he will wake up and start the day over again.
 
 ## Excluded
 
