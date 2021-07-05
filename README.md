@@ -3,7 +3,7 @@
 ## Movies
 
 [The Tomorrow War](https://www.imdb.com/title/tt9777666/) (2021)
-The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
+The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight.
 
 **[Tenet](https://www.imdb.com/title/tt6723592/)** (2020)
 Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
@@ -141,6 +141,9 @@ Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivo
 
 - Not only a time travel
 - Should contain a time paradox or violation of causality
+
+[Volition](https://www.imdb.com/title/tt6385952/) (2019)
+A man afflicted with clairvoyance tries to change his fate when a series of events leads to a vision of his own imminent murder.
 
 [Paradox](https://www.imdb.com/title/tt4540434/) (2016)
 A time machine's tested first time by a man in the team traveling 1 hour into the future. He returns to warn them against killings in the next hour. Is it possible to change things in the "past"? Twist after twist follow.
