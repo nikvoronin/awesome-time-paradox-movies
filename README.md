@@ -8,6 +8,9 @@ The world is stunned when a group of time travelers arrive from the year 2051 to
 **[Tenet](https://www.imdb.com/title/tt6723592/)** (2020)
 Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
+[Volition](https://www.imdb.com/title/tt6385952/) (2019)
+A man afflicted with clairvoyance tries to change his fate when a series of events leads to a vision of his own imminent murder.
+
 [Synchronic](https://www.imdb.com/title/tt9016974/) (2019)
 Two New Orleans paramedics' lives are ripped apart after they encounter a series of horrific deaths linked to a designer drug with bizarre, otherworldly effects.
 
@@ -123,7 +126,7 @@ Today Detective Brett Hopper will be accused of shooting state attorney Alberto 
 [The Triangle](https://www.imdb.com/title/tt0452573/) (2005)
 A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.
 
-[The Langoliers](https://www.imdb.com/title/tt0112040/) (1995)
+**[The Langoliers](https://www.imdb.com/title/tt0112040/)** (1995)
 Most of the passengers on an airplane disappear, and the remainder land the plane in a mysteriously barren airport.
 
 ## Animation
@@ -141,9 +144,6 @@ Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivo
 
 - Not only a time travel
 - Should contain a time paradox or violation of causality
-
-[Volition](https://www.imdb.com/title/tt6385952/) (2019)
-A man afflicted with clairvoyance tries to change his fate when a series of events leads to a vision of his own imminent murder.
 
 [Paradox](https://www.imdb.com/title/tt4540434/) (2016)
 A time machine's tested first time by a man in the team traveling 1 hour into the future. He returns to warn them against killings in the next hour. Is it possible to change things in the "past"? Twist after twist follow.
