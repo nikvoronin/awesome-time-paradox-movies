@@ -101,7 +101,7 @@ In a future world devastated by disease, a convict is sent back in time to gathe
 **[Back to the Future](https://www.imdb.com/title/tt0088763/)** (1985); **[Part II](https://www.imdb.com/title/tt0096874/)** (1989); **[Part III](https://www.imdb.com/title/tt0099088/)** (1990)
 Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.
 
-[The Terminator](https://www.imdb.com/title/tt0088247/) (1984); [Judgment Day](https://www.imdb.com/title/tt0103064/) (1991); [Rise of the Machines](https://www.imdb.com/title/tt0181852/) (2003)
+**[The Terminator](https://www.imdb.com/title/tt0088247/)** (1984); **[Judgment Day](https://www.imdb.com/title/tt0103064/)** (1991); [Rise of the Machines](https://www.imdb.com/title/tt0181852/) (2003)
 A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
 
 ## TV-Series
