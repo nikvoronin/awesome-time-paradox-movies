@@ -117,13 +117,16 @@ The townspeople who live above "The Loop," a machine built to unlock and explore
 **[Dark](https://www.imdb.com/title/tt5753856/)** (2017-2020)
 A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.
 
+**[Legion](https://www.imdb.com/title/tt5114356/)** (2017-2019)
+David Haller is a troubled young man diagnosed as schizophrenic, but after a strange encounter, he discovers special powers that will change his life forever.
+
 [El ministerio del tiempo](https://www.imdb.com/title/tt4136774/) / _The Ministry of Time_ (2015-...)
 A warrior from the 16th Century, the first female university student from the 19th Century, and a paramedic from the 21st Century join a secret agency to prevent people from changing Spanish history using time-traveling doors.
 
 [12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)
 Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.
 
-**[Fringe](https://www.imdb.com/title/tt1119644/)** (2008–2013)
+[Fringe](https://www.imdb.com/title/tt1119644/) (2008–2013)
 The FBI teams up with a formerly-institutionalized scientist - who was performing experiments on the fringe of real science - and his son to investigate weird crimes that are seemingly part of a larger pattern, and may be connected with a global company called Massive Dynamic. // [White Tulip](https://www.imdb.com/title/tt1537139/) (S2E18) The Fringe team investigate a train full of people who died in a mysterious way. Olivia and the others then meet the astrophysicist who was responsible for the "experiment" and who can reset the time.
 
 [Day Break](https://www.imdb.com/title/tt0801425/) (2006-2007)
