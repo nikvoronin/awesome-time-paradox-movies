@@ -159,6 +159,9 @@ A time machine's tested first time by a man in the team traveling 1 hour into th
 
 ## Excluded
 
+[Infinitum: Subject Unknown](https://www.imdb.com/title/tt12108622/) (2021)
+Jane wakes up in a strange attic, bound and tied to a chair, she has no idea where she is or who she is. As panic sets in, she sees a violent bright light flash in front of her eyes and once again she wakes up; same situation as before, an exact repeat. Jane is forced to find a way to alter her reality before it is too late.
+
 [Boss Level](https://www.imdb.com/title/tt7638348/) (2021)
 A retired Special Forces officer is trapped in a never-ending time loop on the day of his death.
 
