@@ -1,5 +1,10 @@
 # Awesome Time Paradox Movies
 
+- Not only a time travel.
+- Should contains a time paradox or violation of causality.
+- **Conception** is in higher priority than a quality.
+- Descending by end date.
+
 ## Movies
 
 [The Tomorrow War](https://www.imdb.com/title/tt9777666/) (2021)
@@ -22,6 +27,9 @@ Trapped in a lab and stuck in a time loop, a disoriented couple fends off masked
 
 **[Arrival](https://www.imdb.com/title/tt2543164/)** (2016)
 A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world.
+
+**[Paradox](https://www.imdb.com/title/tt4540434/)** (2016)
+A time machine's tested first time by a man in the team traveling 1 hour into the future. He returns to warn them against killings in the next hour. Is it possible to change things in the "past"? Twist after twist follow.
 
 [Project Almanac](https://www.imdb.com/title/tt2436386/) (2015)
 A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control.
@@ -106,8 +114,6 @@ A human soldier is sent from 2029 to 1984 to stop an almost indestructible cybor
 
 ## TV-Series
 
-> Descending by end date.
-
 **[Devs](https://www.imdb.com/title/tt8134186/)** (2020)
 A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend.
 
@@ -120,7 +126,7 @@ A family saga with a supernatural twist, set in a German town, where the disappe
 **[Legion](https://www.imdb.com/title/tt5114356/)** (2017-2019)
 David Haller is a troubled young man diagnosed as schizophrenic, but after a strange encounter, he discovers special powers that will change his life forever.
 
-[El ministerio del tiempo](https://www.imdb.com/title/tt4136774/) / _The Ministry of Time_ (2015-...)
+[El ministerio del tiempo](https://www.imdb.com/title/tt4136774/) / _The Ministry of Time_ (2015-2020?..)
 A warrior from the 16th Century, the first female university student from the 19th Century, and a paramedic from the 21st Century join a secret agency to prevent people from changing Spanish history using time-traveling doors.
 
 [12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)
@@ -151,11 +157,7 @@ Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivo
 
 ## TODO
 
-- Not only a time travel
-- Should contain a time paradox or violation of causality
-
-[Paradox](https://www.imdb.com/title/tt4540434/) (2016)
-A time machine's tested first time by a man in the team traveling 1 hour into the future. He returns to warn them against killings in the next hour. Is it possible to change things in the "past"? Twist after twist follow.
+Awaiting for the new one...
 
 ## Excluded
 
