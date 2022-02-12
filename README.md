@@ -3,7 +3,6 @@
 - Not only a time travel.
 - Should contains a time paradox or violation of causality.
 - **Conception** is in higher priority than a quality.
-- Descending by end date.
 
 ## Movies
 
@@ -113,6 +112,8 @@ Marty McFly, a 17-year-old high school student, is accidentally sent thirty year
 A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
 
 ## TV-Series
+
+> Descending by end date.
 
 **[Devs](https://www.imdb.com/title/tt8134186/)** (2020)
 A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend.
