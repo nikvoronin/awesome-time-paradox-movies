@@ -13,7 +13,7 @@ After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed
 [The Tomorrow War](https://www.imdb.com/title/tt9777666/) (2021)
 The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight.
 
-⭐ **[Tenet](https://www.imdb.com/title/tt6723592/)** (2020)
+⚡ **[Tenet](https://www.imdb.com/title/tt6723592/)** (2020)
 Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
 [Volition](https://www.imdb.com/title/tt6385952/) (2019)
@@ -28,7 +28,7 @@ Two storms separated by 25 years. A woman murdered. A daughter missed. Only 72 h
 [ARQ](https://www.imdb.com/title/tt5640450/) (2016)
 Trapped in a lab and stuck in a time loop, a disoriented couple fends off masked raiders while harboring a new energy source that could save humanity.
 
-⭐ **[Arrival](https://www.imdb.com/title/tt2543164/)** (2016)
+⚡ **[Arrival](https://www.imdb.com/title/tt2543164/)** (2016)
 A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world.
 
 ⭐ **[Paradox](https://www.imdb.com/title/tt4540434/)** (2016)
@@ -46,7 +46,7 @@ Three friends discover a mysterious machine that takes pictures twenty-four hour
 ⭐ **[Coherence](https://www.imdb.com/title/tt2866360/)** (2013)
 Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
 
-⭐ **[Predestination](https://www.imdb.com/title/tt2397535/)** (2013)
+⚡ **[Predestination](https://www.imdb.com/title/tt2397535/)** (2013)
 For his final assignment, a top temporal agent must pursue the one criminal that has eluded him throughout time. The chase turns into a unique, surprising and mind-bending exploration of love, fate, identity and time travel taboos.
 
 [Yeolhansi](https://www.imdb.com/title/tt3281394/) / _11 A.M._ (2013)
@@ -61,7 +61,7 @@ In 2074, when the mob wants to get rid of someone, the target is sent into the p
 ⭐ **[Source Code](https://www.imdb.com/title/tt0945513/)** (2011)
 A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train within 8 minutes.
 
-⭐ **[The Time Traveler's Wife](https://www.imdb.com/title/tt0452694/)** (2009)
+⚡ **[The Time Traveler's Wife](https://www.imdb.com/title/tt0452694/)** (2009)
 A Chicago librarian has a gene that causes him to involuntarily time travel, creating complications in his marriage.
 
 [Triangle](https://www.imdb.com/title/tt1187064/) (2009)
@@ -70,7 +70,7 @@ A group of friends suffer a yachting accident and take refuge on a cruiser drift
 [Star Trek](https://www.imdb.com/title/tt0796366/) (2009)
 The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
 
-⭐ **[Los cronocrímenes](https://www.imdb.com/title/tt0480669/)** / _Timecrimes_ (2007)
+⚡ **[Los cronocrímenes](https://www.imdb.com/title/tt0480669/)** / _Timecrimes_ (2007)
 A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.
 
 ⭐ **[Next](https://www.imdb.com/title/tt0435705/)** (2007)
@@ -94,7 +94,7 @@ Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizar
 [The I Inside](https://www.imdb.com/title/tt0325596/) (2004)
 An amnesiac discovers himself leaping through time between 2000 and 2002 as his past returns to him.
 
-⭐ **[Primer](https://www.imdb.com/title/tt0390384/)** (2004)
+⚡ **[Primer](https://www.imdb.com/title/tt0390384/)** (2004)
 Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
 ▶ [UNDERSTANDING "PRIMER" (in six minutes)](https://www.youtube.com/watch?v=-sf9fChyRoc)
 
