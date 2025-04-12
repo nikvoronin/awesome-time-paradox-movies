@@ -1,5 +1,7 @@
 # Awesome Time Paradox Movies
 
+[Movies](#movies) • [TV-Series](#tv-series) • [Animation](#animation) • [TODO](#todo) • [Excluded](#excluded) • [Format](#format)
+
 - Not only time travels.
 - Should contains a time paradox or violation of causality.
 - ⭐ Conception is in higher priority than a quality.
@@ -166,6 +168,10 @@ A human soldier is sent from 2029 to 1984 to stop an almost indestructible cybor
 
 > Sorted descending by series start date. Newer - higher > older - lower.
 
+[Loki](https://www.imdb.com/title/tt9140554/) (2021-2023)\
+The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”\
+🔍 [Season 2](https://www.imdb.com/title/tt9140554/episodes/?season=2) (S2E1..6) Loki finds himself lost to time and torn, quite literally, between past, present and future.
+
 [Devs](https://www.imdb.com/title/tt8134186/) (2020)⭐\
 A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend.
 
@@ -184,7 +190,7 @@ A warrior from the 16th Century, the first female university student from the 19
 [12 Monkeys](https://www.imdb.com/title/tt3148266/) (2015-2018)\
 Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.
 
-[Fringe](https://www.imdb.com/title/tt1119644/) (2008–2013)\
+[Fringe](https://www.imdb.com/title/tt1119644/) (2008-2013)\
 The FBI teams up with a formerly-institutionalized scientist - who was performing experiments on the fringe of real science - and his son to investigate weird crimes that are seemingly part of a larger pattern, and may be connected with a global company called Massive Dynamic.\
 🔎 [White Tulip](https://www.imdb.com/title/tt1537139/) (S2E18) The Fringe team investigate a train full of people who died in a mysterious way. Olivia and the others then meet the astrophysicist who was responsible for the "experiment" and who can reset the time.
 
@@ -208,7 +214,7 @@ A high-school girl named Makoto acquires the power to travel back in time, and d
 [Les maîtres du temps](https://www.imdb.com/title/tt0084315/) / _Time Masters_ (1982)\
 Piel, a 7 or 8 year old boy, is alone on the desert planet Perdide, only survivor of an attack by giant hornets. Calling for help, Piel's father's friend Jaffar keeps contact with the kid and hurries across space toward Perdide.
 
-## TODO /4
+## TODO
 
 [Stasis](https://www.imdb.com/title/tt5702566/) (2017)\
 After a night out of partying Ava wakes up and sneaks back home only to find that somebody's already in her bed and they look exactly like her. Ava learns that a time-traveling fugitive has stolen her body and she is now a ghost and invisible to everyone.
@@ -255,9 +261,18 @@ Three strangers arrive one by one at a mysterious cabin in the middle of nowhere
 [Journeyman](https://www.imdb.com/title/tt0948538/) TV Series (2007)\
 A man travels back in time to help people in trouble.
 
-
 [Lola rennt](https://www.imdb.com/title/tt0130827/) / _Lola Runs_ / _Run Lola Run_ (1998)\
 After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.
 
 [Groundhog Day](https://www.imdb.com/title/tt0107048/) (1993)\
 A weatherman finds himself inexplicably living the same day over and over again.
+
+## Format
+
+```plain
+[Title](imdb-link) {/ _alternative-title_} (xxxx{-yyyy end-year} year-of-release){emoji-marks}\
+Description.{\}
+{🔗 title-of-linked-movie (release year)} {🔗 ...}{\}
+{🔎 possible-points-of-interest}{\}
+{▶ plot-explanations}
+```
