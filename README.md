@@ -170,7 +170,7 @@ A human soldier is sent from 2029 to 1984 to stop an almost indestructible cybor
 
 [Loki](https://www.imdb.com/title/tt9140554/) (2021-2023)\
 The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”\
-🔍 [Season 2](https://www.imdb.com/title/tt9140554/episodes/?season=2) (S2E1..6) Loki finds himself lost to time and torn, quite literally, between past, present and future.
+🔎 [Season 2](https://www.imdb.com/title/tt9140554/episodes/?season=2) (S2E1..6) Loki finds himself lost to time and torn, quite literally, between past, present and future.
 
 [Devs](https://www.imdb.com/title/tt8134186/) (2020)⭐\
 A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend.
