@@ -124,6 +124,9 @@ John Connor must face a female Terminatrix with power over all the machines. But
 🔗 Terminator 2: Judgment Day (1991)
 🔗 Terminator Salvation (2009)
 
+[Minority Report](https://www.imdb.com/title/tt0181689/) (2002)⭐\
+John works with the PreCrime police which stop crimes before they take place, with the help of three 'PreCogs' who can foresee crimes. Events ensue when John finds himself framed for a future murder.
+
 [Frequency](https://www.imdb.com/title/tt0186151/) (2000)\
 An accidental cross-time radio link connects father and son across 30 years. The son tries to save his father's life, but then must fix the consequences.
 
