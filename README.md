@@ -231,6 +231,9 @@ A young couple travelling down the freeway seem to be unable to get off the road
 [Things Will Be Different](https://www.imdb.com/title/tt27491225/) (2024)\
 In order to escape police after a robbery, two estranged siblings lie low in a farmhouse that hides them away in a different time. There they reckon with a mysterious force that pushes their familial bonds to unnatural breaking points.
 
+[Tim Travers & the Time Travelers Paradox](https://www.imdb.com/title/tt22884216/) (2025)\
+What happens if you travel back in time and eliminate your younger self? Terminally bored mad genius Tim Travers seeks to find the answer and unravel the time traveler's paradox.
+
 // Awaiting for the new one...
 
 ## Excluded
