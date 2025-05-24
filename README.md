@@ -1,10 +1,10 @@
 # Awesome Time Paradox Movies
 
-[Movies](#movies) • [TV-Series](#tv-series) • [Animation](#animation) • [TODO](#todo) • [Excluded](#excluded) • [Format](#format)
+[Movies](#movies) • [TV-Series](#tv-series) • [Animation](#animation) • [TODO](#todo) • [Excluded](#excluded) • [Addendum](#addendum)
 
-- Not only time travels.
-- Should contains a time paradox or violation of causality.
-- ⭐ Conception is in higher priority than a quality.
+- Focuses on movies that explicitly involve time paradoxes (e.g., bootstrap, grandfather, or predestination paradoxes) or causality violations, not just general time-travel stories.
+- Prioritizes conceptual originality over production quality, marked by ⭐ for standout paradox execution or ⚡ for high-impact paradoxes.
+- Excludes conventional time-travel movies without paradoxes. See [Time paradoxes in movies](#time-paradoxes-in-movies).
 - ▶ [Time Travel in Fiction Rundown](https://www.youtube.com/watch?v=d3zTfXvYZ9s) © minutephysics
 
 ## Movies
@@ -276,7 +276,51 @@ After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deut
 [Groundhog Day](https://www.imdb.com/title/tt0107048/) (1993)\
 A weatherman finds himself inexplicably living the same day over and over again.
 
-## Format
+## Addendum
+
+### Time paradoxes in movies
+
+*** CONTAIN SPOILERS ***
+
+- Bootstrap Paradox (Ontological Paradox)
+  - An event or object exists without a clear origin, creating a causal loop where the future influences the past, which then causes the future.
+  - An object, person, or piece of information is sent back in time, creating an infinite loop with no origin. The "cause" and "effect" are circular
+  - Examples: Predestination (2014), Terminator (1984), Interstellar (2014).
+- Grandfather Paradox
+  - Changing the past to prevent your own existence, creating a logical contradiction.
+  - A time traveler kills their ancestor, preventing their own existence and thus the act of time travel.
+  - Examples: Back to the Future (1985), Looper (2012), 12 Monkeys (1995).
+- Predestination Paradox (Self-Fulfilling Prophecy)
+  - A self-fulfilling loop where attempts to change the past ensure the event happens.
+  - Attempts to alter the past inadvertently cause the very events the time traveler sought to prevent.
+  - Examples: Harry Potter and the Prisoner of Azkaban (2004), Timecrimes (2007).
+- Temporal Paradox (Alternate Timeline)
+  - Splitting timelines where changes create parallel realities.
+  - Changes in the past create divergent timelines, often erasing the original future.
+  - Examples: Avengers: Endgame (2019), Source Code (2011).
+- No-No Paradox (Mutual Contradiction)
+  - Two entities negate each other’s existence in a loop (e.g., John Connor and Skynet in Terminator 2).
+  - Examples: Terminator 2: Judgment Day (1991)
+- Time Loop Paradox
+  - Repeating the same period with incremental changes.
+  - Examples: Edge of Tomorrow (2014), Groundhog Day (1993).
+- Information Paradox (Recursive Time Loops)
+  - Knowledge or objects appear without origin.
+  - Examples: Primer (2004), Tenet (2020).
+- Hitler Paradox (Unintended Consequences, Altering Major Events)
+  - Changing a pivotal historical event leads to unforeseen consequences.
+  - Examples: X-Men: Days of Future Past (2014), The Butterfly Effect (2004).
+- Closed Time Loop
+  - Events are fixed and immutable; time travelers fulfill actions they’ve already witnessed 811.
+  - Examples: Primer (2004), Donnie Darko (2001).
+- Recursive Reality Paradox
+  - Multiple versions of the same person/event coexist.
+  - Examples: Coherence (2013), Triangle (2009).
+- Celebrity Paradox
+  - Meta-references where actors play fictional versions of themselves (e.g., Bill Murray in Zombieland).
+  - Examples: Zombieland (2009)
+
+### Format
 
 ```plain
 [Title](imdb-link) {/ _alternative-title_} (xxxx{-yyyy end-year} year-of-release){emoji-marks}\
