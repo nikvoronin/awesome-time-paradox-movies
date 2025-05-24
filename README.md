@@ -255,6 +255,9 @@ A group of friends for meeting, a secret for disclosing, a nightmare for startin
 A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.\
 🔗 Happy Death Day 2U (2019)
 
+[One-Minute Time Machine](https://www.imdb.com/title/tt3620860/) (2014)\
+James is all too eager to put his one-minute time machine to use in winning the heart of Regina, until he discovers the unexpected consequences of his actions.
+
 [Alcatraz](https://www.imdb.com/title/tt1728102/) (2012)\
 In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.
 
