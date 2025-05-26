@@ -4,7 +4,7 @@
 
 - Focuses on movies that explicitly involve time paradoxes (e.g., bootstrap, grandfather, or predestination paradoxes) or causality violations, not just general time-travel stories.
 - Prioritizes conceptual originality over production quality, marked by ⭐ for standout paradox execution or ⚡ for high-impact paradoxes.
-- Excludes conventional time-travel movies without paradoxes. See [Time paradoxes in movies](#time-paradoxes-in-movies).
+- Excludes conventional time-travel movies without paradoxes. See ⚠️spoiler alert⚠️ [Time paradoxes in movies](#time-paradoxes-in-movies).
 - ▶ [Time Travel in Fiction Rundown](https://www.youtube.com/watch?v=d3zTfXvYZ9s) © minutephysics
 
 ## Movies
@@ -280,7 +280,7 @@ A weatherman finds himself inexplicably living the same day over and over again.
 
 ### Time paradoxes in movies
 
-*** CONTAIN SPOILERS ***
+⚠️ CONTAIN SPOILERS ⚠️
 
 - Bootstrap Paradox (Ontological Paradox)
   - An event or object exists without a clear origin, creating a causal loop where the future influences the past, which then causes the future.
@@ -311,7 +311,7 @@ A weatherman finds himself inexplicably living the same day over and over again.
   - Changing a pivotal historical event leads to unforeseen consequences.
   - Examples: X-Men: Days of Future Past (2014), The Butterfly Effect (2004).
 - Closed Time Loop
-  - Events are fixed and immutable; time travelers fulfill actions they’ve already witnessed 811.
+  - Events are fixed and immutable; time travelers fulfill actions they’ve already witnessed.
   - Examples: Primer (2004), Donnie Darko (2001).
 - Recursive Reality Paradox
   - Multiple versions of the same person/event coexist.
