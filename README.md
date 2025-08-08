@@ -4,12 +4,15 @@
 
 - Focuses on movies that explicitly involve time paradoxes (e.g., bootstrap, grandfather, or predestination paradoxes) or causality violations, not just general time-travel stories.
 - Prioritizes conceptual originality over production quality, marked by ⭐ for standout paradox execution or ⚡ for high-impact paradoxes.
-- Excludes conventional time-travel movies without paradoxes. See ⚠️spoiler alert⚠️ [Time paradoxes in movies](#time-paradoxes-in-movies).
+- Excludes conventional time-travel movies without paradoxes. See `⚠️spoiler alert⚠️` [Time paradoxes in movies](#time-paradoxes-in-movies).
 - ▶ [Time Travel in Fiction Rundown](https://www.youtube.com/watch?v=d3zTfXvYZ9s) © minutephysics
 
 ## Movies
 
-### 2020 /3
+### 2020s /4
+
+[Rani Rani Rani](https://www.imdb.com/title/tt16023790/) (2024)\
+Rani, a struggling caretaker in a dying Indian village, is trapped between her feckless husband and his ruthless relatives until she stumbles upon a group testing a mysterious device. Lured into their device for the cash, she emerges unharmed but soon discovers that altering her fate might require multiple chances or just a little more time.
 
 [The Adam Project](https://www.imdb.com/title/tt2463208/) (2022)\
 After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future by returning to the original branch.
@@ -20,7 +23,7 @@ The world is stunned when a group of time travelers arrive from the year 2051 to
 [Tenet](https://www.imdb.com/title/tt6723592/) (2020)⚡\
 Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
-### 2010 /15
+### 2010s /15
 
 [Volition](https://www.imdb.com/title/tt6385952/) (2019)\
 A man afflicted with clairvoyance tries to change his fate when a series of events leads to a vision of his own imminent murder.
@@ -67,7 +70,7 @@ In 2074, when the mob wants to get rid of someone, the target is sent into the p
 [Source Code](https://www.imdb.com/title/tt0945513/) (2011)⭐\
 A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train within 8 minutes.
 
-### 2000 /18
+### 2000s /18
 
 [Mr. Nobody](https://www.imdb.com/title/tt0485947/) (2009)⭐\
 A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
@@ -130,7 +133,7 @@ John works with the PreCrime police which stop crimes before they take place, wi
 [Frequency](https://www.imdb.com/title/tt0186151/) (2000)\
 An accidental cross-time radio link connects father and son across 30 years. The son tries to save his father's life, but then must fix the consequences.
 
-### 1990 /4
+### 1990s /4
 
 [Retroactive](https://www.imdb.com/title/tt0117468/) (1997)\
 A psychiatrist makes multiple trips through time to save a woman that was murdered by her brutal husband.
@@ -149,7 +152,7 @@ Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and mu
 🔗 Back to the Future (1985)
 🔗 Back to the Future Part II (1989)
 
-### 1980 /3
+### 1980s /3
 
 [Back to the Future Part II](https://www.imdb.com/title/tt0096874/) (1989)⭐\
 After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip.\
@@ -280,7 +283,7 @@ A weatherman finds himself inexplicably living the same day over and over again.
 
 ### Time paradoxes in movies
 
-⚠️ CONTAIN SPOILERS ⚠️
+`⚠️ CONTAIN SPOILERS ⚠️`
 
 - Bootstrap Paradox (Ontological Paradox)
   - An event or object exists without a clear origin, creating a causal loop where the future influences the past, which then causes the future.
