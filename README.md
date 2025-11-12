@@ -3,9 +3,12 @@
 [Movies](#movies) • [TV-Series](#tv-series) • [Animation](#animation) • [TODO](#todo) • [Excluded](#excluded) • [Addendum](#addendum)
 
 - Focuses on movies that explicitly involve time paradoxes (e.g., bootstrap, grandfather, or predestination paradoxes) or causality violations, not just general time-travel stories.
-- Prioritizes conceptual originality over production quality, marked by ⭐ for standout paradox execution or ⚡ for high-impact paradoxes.
-- Excludes conventional time-travel movies without paradoxes. See `⚠️SPOILER ALERT⚠️` [Time paradoxes in movies](#time-paradoxes-in-movies).
-- ▶ [Time Travel in Fiction Rundown](https://www.youtube.com/watch?v=d3zTfXvYZ9s) © minutephysics
+- Prioritizes conceptual originality over production quality, marked by\
+  ⭐ for standout paradox execution or\
+  ⚡ for high-impact paradoxes.
+- Excludes conventional time-travel movies without paradoxes.\
+  See `⚠️SPOILER ALERT⚠️` [Time paradoxes in movies](#time-paradoxes-in-movies).
+- Take a minute to watch the ▶ [Time Travel in Fiction Rundown](https://www.youtube.com/watch?v=d3zTfXvYZ9s) by `minutephysics`
 
 ## Movies
 
