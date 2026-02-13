@@ -178,6 +178,7 @@ A human soldier is sent from 2029 to 1984 to stop an almost indestructible cybor
 
 ## TV-Series
 
+> [!NOTE]
 > Sorted descending by series start date. Newer - higher > older - lower.
 
 [Loki](https://www.imdb.com/title/tt9140554/) (2021-2023)\
@@ -249,6 +250,9 @@ A couple returning from their engagement party must escape a sinister and seemin
 [Tim Travers & the Time Travelers Paradox](https://www.imdb.com/title/tt22884216/) (2025)\
 What happens if you travel back in time and eliminate your younger self? Terminally bored mad genius Tim Travers seeks to find the answer and unravel the time traveler's paradox.
 
+[Kill Me Again](https://www.imdb.com/title/tt30332302/) (2025)\
+A notorious serial killer known as the Midnight Mangler finds himself trapped, reliving the same violent night over and over. Initially embracing his grisly urges, he soon becomes desperate to escape the endless nightmare.
+
 // Awaiting for the new one...
 
 ## Excluded
@@ -295,7 +299,8 @@ A weatherman finds himself inexplicably living the same day over and over again.
 
 ### Time paradoxes in movies
 
-`⚠️ CONTAIN SPOILERS ⚠️`
+> [!WARNING]
+> __CONTAIN SPOILERS__
 
 - Bootstrap Paradox (Ontological Paradox)
   - An event or object exists without a clear origin, creating a causal loop where the future influences the past, which then causes the future.
