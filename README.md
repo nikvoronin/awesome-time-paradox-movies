@@ -12,7 +12,10 @@
 
 ## Movies
 
-### 2020s /5
+### 2020s /6
+
+[Good Luck, Have Fun, Don't Die](https://www.imdb.com/title/tt1341338/) (2025)\
+A "Man From the Future" arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.
 
 [Caddo Lake](https://www.imdb.com/title/tt15552142/) (2024)⭐\
 When an 8-year-old girl disappears on Caddo Lake, a series of past deaths and disappearances begin to link together, altering a broken family's history.
