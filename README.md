@@ -93,7 +93,7 @@ A group of friends suffer a yachting accident and take refuge on a cruiser drift
 [Star Trek](https://www.imdb.com/title/tt0796366/) (2009)\
 The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
 
-[Terminator Salvation](https://www.imdb.com/title/tt0438488/) (2009)\
+[Terminator Salvation](https://www.imdb.com/title/tt0438488/) (2009)⭐\
 As the machines prepare for a final attack, John Connor and a mysterious stranger delve into the heart of Skynet and uncover a terrible secret involving the annihilation of mankind.\
 🔗 The Terminator (1984)
 🔗 Terminator 2: Judgment Day (1991)
@@ -147,10 +147,10 @@ An accidental cross-time radio link connects father and son across 30 years. The
 [Retroactive](https://www.imdb.com/title/tt0117468/) (1997)\
 A psychiatrist makes multiple trips through time to save a woman that was murdered by her brutal husband.
 
-[Twelve Monkeys](https://www.imdb.com/title/tt0114746/) (1995)\
+[12 Monkeys](https://www.imdb.com/title/tt0114746/) (1995)⭐\
 In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
-[Terminator 2: Judgment Day](https://www.imdb.com/title/tt0103064/) (1991)⭐\
+[Terminator 2: Judgment Day](https://www.imdb.com/title/tt0103064/) (1991)\
 A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.\
 🔗 The Terminator (1984)
 🔗 Terminator 3: Rise of the Machines (2003)
@@ -173,7 +173,7 @@ Marty McFly, a 17-year-old high school student, is accidentally sent 30 years in
 🔗 Back to the Future Part II (1989)
 🔗 Back to the Future Part III (1990)
 
-[The Terminator](https://www.imdb.com/title/tt0088247/) (1984)⭐\
+[The Terminator](https://www.imdb.com/title/tt0088247/) (1984)\
 A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.\
 🔗 Terminator 2: Judgment Day (1991)
 🔗 Terminator 3: Rise of the Machines (2003)
