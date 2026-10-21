@@ -241,13 +241,13 @@ A taxi driver finds himself trapped in a time loop. He picks up a pretty woman i
 [Dorosute no hate de bokura](https://www.imdb.com/title/tt14500584/) / _Beyond the Infinite Two Minutes_ (2020)\
 A cafe owner discovers that the TV in his cafe suddenly shows images from the future, but only two minutes into the future.
 
-[The Fearway](https://www.imdb.com/title/tt14992524/) (2023)\
+[The Fearway](https://www.imdb.com/title/tt14992524/) (2023)❓\
 A young couple travelling down the freeway seem to be unable to get off the road after being hunted by someone intent on keeping them on the road.
 
 [Things Will Be Different](https://www.imdb.com/title/tt27491225/) (2024)\
 In order to escape police after a robbery, two estranged siblings lie low in a farmhouse that hides them away in a different time. There they reckon with a mysterious force that pushes their familial bonds to unnatural breaking points.
 
-[Drive Back](https://www.imdb.com/title/tt23639696/) (2024)\
+[Drive Back](https://www.imdb.com/title/tt23639696/) (2024)❓\
 A couple returning from their engagement party must escape a sinister and seemingly endless road.
 
 [Tim Travers & the Time Travelers Paradox](https://www.imdb.com/title/tt22884216/) (2025)\
@@ -256,7 +256,27 @@ What happens if you travel back in time and eliminate your younger self? Termina
 [Kill Me Again](https://www.imdb.com/title/tt30332302/) (2025)\
 A notorious serial killer known as the Midnight Mangler finds himself trapped, reliving the same violent night over and over. Initially embracing his grisly urges, he soon becomes desperate to escape the endless nightmare.
 
-// Awaiting for the new one...
+### Unsorted
+
+- Bill & Ted's Excellent Adventure, 1989
+- The Infinite Man, 2014
+- The Endless, 2017
+- Enemy, 2013
+- The Call / 콜, 2020
+- The Incident / El Incidente, 2014
+- Undone, 2019–2021
+- Link Click / 时光代理人, 2021–...
+- Summer Time Rendering, 2022
+- Erased / Boku dake ga Inai Machi, 2016
+- La Jetée, 1962
+- Timerider: The Adventure of Lyle Swann, 1982
+- Somewhere in Time, 1980
+- The Time Travelers, 1964
+- The Time Machine (2002)
+- [The History of Time Travel](https://www.imdb.com/title/tt3727120) (2014)
+- Frequently Asked Questions About Time Travel (2009)
+- Your Name (2016)
+- Suzume (2022)
 
 ## Excluded
 
@@ -291,6 +311,9 @@ While on a trip to Paris with his fiancée's family, a nostalgic screenwriter fi
 
 [Enter Nowhere](https://www.imdb.com/title/tt1631707/) (2011)\
 Three strangers arrive one by one at a mysterious cabin in the middle of nowhere only to learn they've been brought together for a reason.
+
+[The Man from Earth](https://www.imdb.com/title/tt0756683/) (2007)\
+A professor's impromptu retirement party becomes a mysterious interrogation when he reveals to his colleagues that he has a longer and stranger past than they can imagine.
 
 [Next](https://www.imdb.com/title/tt0435705/) (2007)\
 A Las Vegas magician who can see into the future is pursued by FBI agents seeking to use his abilities to prevent a nuclear terrorist attack.
