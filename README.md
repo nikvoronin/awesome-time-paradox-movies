@@ -55,6 +55,9 @@ A time machine's tested first time by a man in the team traveling 1 hour into th
 [Project Almanac](https://www.imdb.com/title/tt2436386/) (2015)\
 A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control.
 
+[Interstellar](https://www.imdb.com/title/tt0816692/) (2014)⭐\
+In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.
+
 [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/) (2014)⭐\
 A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.
 
@@ -70,9 +73,6 @@ For his final assignment, a top temporal agent must pursue the one criminal that
 [Yeolhansi](https://www.imdb.com/title/tt3281394/) / _11 A.M._ (2013)\
 In the not-so distant future, researchers at a deep-sea labaratory have finally succeded in inventing a time machine. They make a test flight and travel to 11 A.M - the next day. They arrive at the planned time only to find the base on the verge of collapse. What could have happened in the 24 hours?
 
-[Men in Black 3](https://www.imdb.com/title/tt1409024/) (2012)\
-Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.
-
 [Looper](https://www.imdb.com/title/tt1276104/) (2012)\
 In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.
 
@@ -84,7 +84,7 @@ A soldier wakes up in someone else's body and discovers he's part of an experime
 [Mr. Nobody](https://www.imdb.com/title/tt0485947/) (2009)⭐\
 A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 
-[The Time Traveler's Wife](https://www.imdb.com/title/tt0452694/) (2009)⚡\
+[The Time Traveler's Wife](https://www.imdb.com/title/tt0452694/) (2009)⭐\
 A Chicago librarian has a gene that causes him to involuntarily time travel, creating complications in his marriage.
 
 [Triangle](https://www.imdb.com/title/tt1187064/) (2009)\
@@ -101,9 +101,6 @@ As the machines prepare for a final attack, John Connor and a mysterious strange
 
 [Los cronocrímenes](https://www.imdb.com/title/tt0480669/) / _Timecrimes_ (2007)⚡\
 A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.
-
-[Next](https://www.imdb.com/title/tt0435705/) (2007)⭐\
-A Las Vegas magician who can see into the future is pursued by FBI agents seeking to use his abilities to prevent a nuclear terrorist attack.
 
 [Deja Vu](https://www.imdb.com/title/tt0453467/) (2006)⭐\
 After a ferry is bombed in New Orleans, an A.T.F. agent joins a unique investigation using experimental surveillance technology to find the bomber, but soon finds himself becoming obsessed with one of the victims.
@@ -139,6 +136,9 @@ John Connor must face a female Terminatrix with power over all the machines. But
 [Minority Report](https://www.imdb.com/title/tt0181689/) (2002)⭐\
 John works with the PreCrime police which stop crimes before they take place, with the help of three 'PreCogs' who can foresee crimes. Events ensue when John finds himself framed for a future murder.
 
+[Donnie Darko](https://www.imdb.com/title/tt0246578/) (2001)\
+After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.
+
 [Frequency](https://www.imdb.com/title/tt0186151/) (2000)\
 An accidental cross-time radio link connects father and son across 30 years. The son tries to save his father's life, but then must fix the consequences.
 
@@ -150,7 +150,7 @@ A psychiatrist makes multiple trips through time to save a woman that was murder
 [12 Monkeys](https://www.imdb.com/title/tt0114746/) (1995)⭐\
 In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
-[Terminator 2: Judgment Day](https://www.imdb.com/title/tt0103064/) (1991)\
+[Terminator 2: Judgment Day](https://www.imdb.com/title/tt0103064/) (1991)⭐\
 A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.\
 🔗 The Terminator (1984)
 🔗 Terminator 3: Rise of the Machines (2003)
@@ -173,7 +173,7 @@ Marty McFly, a 17-year-old high school student, is accidentally sent 30 years in
 🔗 Back to the Future Part II (1989)
 🔗 Back to the Future Part III (1990)
 
-[The Terminator](https://www.imdb.com/title/tt0088247/) (1984)\
+[The Terminator](https://www.imdb.com/title/tt0088247/) (1984)⭐\
 A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.\
 🔗 Terminator 2: Judgment Day (1991)
 🔗 Terminator 3: Rise of the Machines (2003)
@@ -280,6 +280,9 @@ A college student must relive the day of her murder over and over again, in a lo
 [One-Minute Time Machine](https://www.imdb.com/title/tt3620860/) (2014)\
 James is all too eager to put his one-minute time machine to use in winning the heart of Regina, until he discovers the unexpected consequences of his actions.
 
+[Men in Black 3](https://www.imdb.com/title/tt1409024/) (2012)\
+Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.
+
 [Alcatraz](https://www.imdb.com/title/tt1728102/) (2012)\
 In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.
 
@@ -288,6 +291,9 @@ While on a trip to Paris with his fiancée's family, a nostalgic screenwriter fi
 
 [Enter Nowhere](https://www.imdb.com/title/tt1631707/) (2011)\
 Three strangers arrive one by one at a mysterious cabin in the middle of nowhere only to learn they've been brought together for a reason.
+
+[Next](https://www.imdb.com/title/tt0435705/) (2007)\
+A Las Vegas magician who can see into the future is pursued by FBI agents seeking to use his abilities to prevent a nuclear terrorist attack.
 
 [Journeyman](https://www.imdb.com/title/tt0948538/) TV Series (2007)\
 A man travels back in time to help people in trouble.
@@ -339,9 +345,6 @@ A weatherman finds himself inexplicably living the same day over and over again.
 - Recursive Reality Paradox
   - Multiple versions of the same person/event coexist.
   - Examples: Coherence (2013), Triangle (2009).
-- Celebrity Paradox
-  - Meta-references where actors play fictional versions of themselves (e.g., Bill Murray in Zombieland).
-  - Examples: Zombieland (2009)
 
 ### Format
 
