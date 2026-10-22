@@ -81,13 +81,13 @@ A soldier wakes up in someone else's body and discovers he's part of an experime
 
 ### 2000s /18
 
-[Mr. Nobody](https://www.imdb.com/title/tt0485947/) (2009)⭐\
+[Mr. Nobody](https://www.imdb.com/title/tt0485947/) (2009)\
 A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 
 [The Time Traveler's Wife](https://www.imdb.com/title/tt0452694/) (2009)⭐\
 A Chicago librarian has a gene that causes him to involuntarily time travel, creating complications in his marriage.
 
-[Triangle](https://www.imdb.com/title/tt1187064/) (2009)\
+[Triangle](https://www.imdb.com/title/tt1187064/) (2009)⭐\
 A group of friends suffer a yachting accident and take refuge on a cruiser drifting on the open sea, but quickly realize they were better off on the upturned yacht.
 
 [Star Trek](https://www.imdb.com/title/tt0796366/) (2009)\
@@ -339,20 +339,20 @@ Time-travel stories explore logical contradictions, circular causality, and unco
 A movie may explore several concepts simultaneously.
 
 - **Logical Paradoxes.** Situations in which time travel or knowledge of the future creates an apparent logical contradiction.
-  - **Grandfather Paradox (Self-Erasure Paradox).** Changing the past prevents the very circumstances that made the change possible. If a traveler prevents their own existence or journey, how could they have traveled back in the first place? Includes self-interference scenarios such as Polchinski's Paradox. **Examples:** *Back to the Future*, *Looper*.
-  - **Foreknowledge Paradox (Prediction vs. Free Will).** Knowing a seemingly inevitable future influences the decisions that lead to it. Can someone deliberately prevent an event that has already been predicted with certainty? The apparent contradiction depends on whether the prediction is truly infallible. **Examples:** *Minority Report*, *Time Lapse*, *Volition*.
+  - **Grandfather Paradox (Self-Erasure Paradox).** Changing the past prevents the very circumstances that made the change possible. If a traveler prevents their own existence or journey, how could they have traveled back in the first place? Includes self-interference scenarios such as Polchinski's Paradox. **Examples:** Back to the Future (1985), Looper (2012).
+  - **Foreknowledge Paradox (Prediction vs. Free Will).** Knowing a seemingly inevitable future influences the decisions that lead to it. Can someone deliberately prevent an event that has already been predicted with certainty? The apparent contradiction depends on whether the prediction is truly infallible. **Examples:** Minority Report (2002), Time Lapse (2014), Volition (2019).
 - **Causal Paradoxes.** Situations in which cause and effect form circular relationships, challenging conventional notions of origin and causation.
-  - **Bootstrap Paradox (Ontological / Information Paradox).** An object, piece of information, or idea exists within a closed causal loop without a clearly identifiable external origin. The future creates the past, which in turn creates the future. **Examples:** *Interstellar*, *Dark*, *Predestination*.
-  - **Predestination Paradox (Self-Fulfilling Prophecy).** Attempts to prevent or change a future event become the very cause of that event. Actions intended to break the cycle instead complete it. **Examples:** *12 Monkeys*, *Timecrimes*, *The Terminator*.
-  - **Genealogical Paradox (Self-Ancestry Loop).** Time travel creates circular family relationships in which a person becomes their own ancestor or participates in an ancestry loop without a conventional beginning. A specialized form of the Bootstrap Paradox. **Examples:** *Predestination*, *Dark*.
+  - **Bootstrap Paradox (Ontological / Information Paradox).** An object, piece of information, or idea exists within a closed causal loop without a clearly identifiable external origin. The future creates the past, which in turn creates the future. **Examples:** Interstellar (2014), Dark (2017-2020), Predestination (2013).
+  - **Predestination Paradox (Self-Fulfilling Prophecy).** Attempts to prevent or change a future event become the very cause of that event. Actions intended to break the cycle instead complete it. **Examples:** 12 Monkeys (1995), Los cronocrímenes / Timecrimes (2007), The Terminator (1984).
+  - **Genealogical Paradox (Self-Ancestry Loop).** Time travel creates circular family relationships in which a person becomes their own ancestor or participates in an ancestry loop without a conventional beginning. A specialized form of the Bootstrap Paradox. **Examples:** Predestination (2013), Dark (2017-2020).
 - **Temporal Models & Narrative Mechanisms.** Models of time and storytelling devices that generate, explain, or resolve apparent paradoxes. These are not necessarily paradoxes themselves.
-  - **Fixed Timeline (Novikov Self-Consistency Principle).** The past cannot be changed. Every action taken by a time traveler has always been part of history, preserving a single internally consistent timeline. **Examples:** *Harry Potter and the Prisoner of Azkaban*, *Tenet*.
-  - **Mutable Timeline (Butterfly Effect).** Changes to the past alter subsequent events, potentially rewriting the present and future. Small interventions can produce dramatically different outcomes. **Examples:** *The Butterfly Effect*, *Back to the Future*, *Frequency*.
-  - **Branching Timelines (Alternate Realities).** Changes to history create or lead into alternative timelines rather than necessarily overwriting the original. Different versions of events can coexist. **Examples:** *Star Trek* (2009), *Source Code*, *Coherence*.
-  - **Repeating Time Loop (Temporal Recursion).** A period of time repeats, allowing characters to experience the same events multiple times, sometimes with different outcomes. Repetition alone does not constitute a logical paradox. **Examples:** *Edge of Tomorrow*, *ARQ*, *Day Break*.
-  - **Retrocausality (Backward Causation).** Events, actions, or information from the future influence events in the past, reversing the conventional direction of cause and effect. **Examples:** *Tenet*, *Interstellar*.
-  - **Multiple Temporal Selves (Overlapping Timelines).** Different temporal versions of the same person coexist or interact, creating complex relationships between identity, causality, and personal history. **Examples:** *Primer*, *Timecrimes*, *Triangle*.
-  - **Nonlinear Temporal Perception.** Characters experience, remember, or perceive events outside their conventional chronological order. Knowledge of future events raises questions about determinism and free will without necessarily involving physical time travel. **Example:** *Arrival*.
+  - **Fixed Timeline (Novikov Self-Consistency Principle).** The past cannot be changed. Every action taken by a time traveler has always been part of history, preserving a single internally consistent timeline. **Examples:** Harry Potter and the Prisoner of Azkaban (2004), Tenet (2020).
+  - **Mutable Timeline (Butterfly Effect).** Changes to the past alter subsequent events, potentially rewriting the present and future. Small interventions can produce dramatically different outcomes. **Examples:** The Butterfly Effect (2004), Back to the Future (1985), Frequency (2000).
+  - **Branching Timelines (Alternate Realities).** Changes to history create or lead into alternative timelines rather than necessarily overwriting the original. Different versions of events can coexist. **Examples:** Star Trek (2009), Source Code (2011), Coherence (2013).
+  - **Repeating Time Loop (Temporal Recursion).** A period of time repeats, allowing characters to experience the same events multiple times, sometimes with different outcomes. Repetition alone does not constitute a logical paradox. **Examples:** Edge of Tomorrow (2014), ARQ (2016), Day Break (2006-2007).
+  - **Retrocausality (Backward Causation).** Events, actions, or information from the future influence events in the past, reversing the conventional direction of cause and effect. **Examples:** Tenet (2020), Interstellar (2014).
+  - **Multiple Temporal Selves (Overlapping Timelines).** Different temporal versions of the same person coexist or interact, creating complex relationships between identity, causality, and personal history. **Examples:** Primer (2004), Los cronocrímenes / Timecrimes (2007), Triangle (2009).
+  - **Nonlinear Temporal Perception.** Characters experience, remember, or perceive events outside their conventional chronological order. Knowledge of future events raises questions about determinism and free will without necessarily involving physical time travel. **Example:** Arrival (2016).
 
 ### Format
 
